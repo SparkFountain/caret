@@ -1,7 +1,16 @@
 {
-  "name": "caret",
+  "name": "jquery-caret-plugin",
+  "main": "./jquery.caret.js",
   "version": "1.0.0",
-  "dependencies": {
-    
-  }
+  "description": "Manipulate the caret's position in a text box or content-editable element.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SparkFountain/caret.git"
+  },
+  "author": "Gideon Sireling",
+  "license": "BSD3",
+  "homepage": "https://github.com/SparkFountain/caret"
 }
